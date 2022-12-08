@@ -1,0 +1,28 @@
+#ico{
+    position: fixed;
+    top: 0;
+    width: 50%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.315);
+    color: white;
+
+}
+#buscar{
+    position: fixed;
+    margin-left: 50%;
+    top: 0;
+    width: 50%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.315);
+    color: white;
+}
+.p{
+    margin: auto;
+    margin-top: 75px;
+    background-color:rgba(128, 128, 128, 0.5);
+    width: 80%;
+    font-family: Cambria;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
